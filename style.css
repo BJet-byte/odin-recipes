@@ -11,3 +11,13 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+.recipe-name {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.recipe-pic {
+    text-align: center;
+}
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
